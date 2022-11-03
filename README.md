@@ -11,10 +11,11 @@ The GetScouted App will be a key recruitment tool for youth level & first team l
 
 # The problem/The issue at hand:				
 Scouts/Clubs:			
-  Football scouts can not do real-time scouting digitally
-  Football scouts find it hard to measure the full potential of a player
-  Football clubs do not have enough data on young players they scout		
+•	Football scouts can not do real-time scouting digitally
+•	Football scouts find it hard to measure the full potential of a player
+•	Football clubs do not have enough data on young players they scout		
 
 Players
-  Players do not have a platform to showcase their talent
-  Players can not measure their own ability 
+•	Players do not have a platform to showcase their talent
+•	Players can not measure their own ability
+

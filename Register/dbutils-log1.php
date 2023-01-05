@@ -3,7 +3,7 @@ function connect() {
   $username = 'root';
   $password = '';
   $mysqlhost = 'localhost';
-  $dbname = 'get_scouted';
+  $dbname = 'record';
   $pdo = new PDO('mysql:host='.$mysqlhost.';dbname='.$dbname.';charset=utf8', $username, $password);
   if ( $pdo) {
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);

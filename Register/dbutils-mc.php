@@ -4,7 +4,7 @@ function connect() {
   $username = 'root';
   $password = '';
   $mysqlhost = 'localhost';
-  $dbname = 'get_scouted';
+  $dbname = 'record';
   
   $pdo = new PDO('mysql:host='.$mysqlhost.';dbname='.$dbname.';charset=utf8', $username, $password);
   if ( $pdo) {
@@ -72,5 +72,5 @@ function htmlTable( $pdo, $table) {
   }
   print "</table>";  
 } 
-header("Location: create_player_report.html"); 
+header("Location: create_player_report.php"); 
 ?>
